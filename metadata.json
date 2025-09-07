@@ -1,0 +1,7 @@
+{
+  "name": "Aurat Ki Awaz",
+  "description": "An application empowering women facing domestic violence to anonymously report incidents, generate AI-enhanced reports, and connect with support organizations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
